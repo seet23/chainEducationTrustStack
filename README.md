@@ -1,5 +1,5 @@
 
-To run these project run these commands:
+To run this project run these commands:
 ```
 npm install
 bower install
