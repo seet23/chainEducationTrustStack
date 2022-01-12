@@ -8,4 +8,4 @@ mvn clean package
 ```
 
 
-then deploy on erver.
+then deploy on server.
